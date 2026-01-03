@@ -1,37 +1,52 @@
 {
     "Начало": {
-        "welcome/welcome.md": "👋 Добро пожаловать!",
-        "welcome/FAQ.md": "❓ FAQ"
+        "openByDefault": true,
+        "pages": {
+            "welcome/welcome.md": "👋 Добро пожаловать!",
+            "welcome/FAQ.md": "❓ FAQ"
+        }
     },
     "Основное": {
-        "main/information.md": "📌 Информация",
-        "main/howtoplay.md": "🎮 Как начать играть",
-        "main/rules.md": "📚 Правила",
-        "main/commands.md": "🖨️ Команды",
-        "main/modifications.md": "⚙️ Модификации"
+        "openByDefault": true,
+        "pages": {
+            "main/information.md": "📌 Информация",
+            "main/howtoplay.md": "🎮 Как начать играть",
+            "main/rules.md": "📚 Правила",
+            "main/commands.md": "🖨️ Команды",
+            "main/modifications.md": "⚙️ Модификации"
+        }
     },
     "Модификации": {
-        "modifications/armorstands.md": "🕺 Редактор стендов",
-        "modifications/bank.md": "🏦 Банк",
-        "modifications/buhlo.md": "🍸 Коктейли",
-        "modifications/chat.md": "💬 Чат",
-        "modifications/emotes.md": "🎭 Эмоции",
-        "modifications/onlinemap.md": "🗺️ Онлайн-карта",
-        "modifications/paintings.md": "🎨 Рисование картин",
-        "modifications/skins.md": "👕 Скины",
-        "modifications/voicechat.md": "🎙️ Голосовой чат",
-        "modifications/volley.md": "⚾ Волейбол"
+        "openByDefault": true,
+        "pages": {
+            "modifications/armorstands.md": "🕺 Редактор стендов",
+            "modifications/bank.md": "🏦 Банк",
+            "modifications/buhlo.md": "🍸 Коктейли",
+            "modifications/chat.md": "💬 Чат",
+            "modifications/emotes.md": "🎭 Эмоции",
+            "modifications/onlinemap.md": "🗺️ Онлайн-карта",
+            "modifications/paintings.md": "🎨 Рисование картин",
+            "modifications/skins.md": "👕 Скины",
+            "modifications/voicechat.md": "🎙️ Голосовой чат",
+            "modifications/volley.md": "⚾ Волейбол"
+        }
     },
     "Рецепты": {
-        "recipes/light_block.md": "💡 Блоки света",
-        "recipes/invframes.md": "🖼️ Невидимые рамки"
+        "openByDefault": true,
+        "pages": {
+            "recipes/light_block.md": "💡 Блоки света",
+            "recipes/invframes.md": "🖼️ Невидимые рамки"
+        }
     },
     "Документики": {
-        "legal/oferta.md": "Договор оферты",
-        "legal/rules-for-players.md": "Правила игры на сервере",
-        "legal/privacy-policy.md": "Политика конфиденциальности",
-        "legal/user-agreement.md": "Пользовательское соглашение",
-        "legal/inactivity-policy.md": "Политика в отношении бездействия",      
-        "legal/intellectual-property-notice.md": "Intellectual Property Notice"
+        "openByDefault": false,
+        "pages": {
+            "legal/oferta.md": "Договор оферты",
+            "legal/rules-for-players.md": "Правила игры на сервере",
+            "legal/privacy-policy.md": "Политика конфиденциальности",
+            "legal/user-agreement.md": "Пользовательское соглашение",
+            "legal/inactivity-policy.md": "Политика в отношении бездействия",      
+            "legal/intellectual-property-notice.md": "Intellectual Property Notice"
+        }
     }
 }
