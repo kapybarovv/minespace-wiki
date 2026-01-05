@@ -1,8 +1,5 @@
 # 🏦 Банковская система
 
-<p align="center">
-  <img src="https://minespace.su/_nuxt/icon_load_iframe.q7Fyr6zW.webp" alt="Скоро..." width="200">
-</p>
 
-# Скоро...
-<small>Эта статья появится после выхода обновления</small>
+::quote-card{type="warning"} ::quote-card{type="warning"} 
+<p align="center"><img src="https://minespace.su/_nuxt/icon_load_iframe.q7Fyr6zW.webp" alt="Скоро..." draggable=false width="100"><h1>Скоро...</h1><small>Эта статья появится после выхода обновления</small></p>
