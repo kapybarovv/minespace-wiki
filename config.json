@@ -11,16 +11,12 @@
         "main/modifications.md": "⚙️ Модификации"
     },
     "Модификации": {
-        "modifications/armorstands.md": "🕺 Редактор стендов",
-        "modifications/bank.md": "🏦 Банк",
+        "modifications/emotes.md": "🎭 Эмоции",
+        "modifications/voicechat.md": "🎙️ Голосовой чат",
+        "modifications/onlinemap.md": "🗺️ Онлайн-карта",
         "modifications/buhlo.md": "🍸 Напитки",
         "modifications/chat.md": "💬 Чат",
-        "modifications/emotes.md": "🎭 Эмоции",
-        "modifications/onlinemap.md": "🗺️ Онлайн-карта",
-        "modifications/paintings.md": "🎨 Рисование картин",
         "modifications/skins.md": "👕 Скины",
-        "modifications/voicechat.md": "🎙️ Голосовой чат",
-        "modifications/volley.md": "⚾ Волейбол"
     },
     "Рецепты": {
         "recipes/light_block.md": "💡 Блоки света",
