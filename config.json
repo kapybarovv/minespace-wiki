@@ -16,11 +16,13 @@
         "modifications/onlinemap.md": "🗺️ Онлайн-карта",
         "modifications/buhlo.md": "🍸 Напитки",
         "modifications/chat.md": "💬 Чат",
-        "modifications/skins.md": "👕 Скины"
+        "modifications/skins.md": "👕 Скины",
     },
-    "Рецепты": {
+    "Кастомные крафты": {
         "recipes/light_block.md": "💡 Блоки света",
-        "recipes/invframes.md": "🖼️ Невидимые рамки"
+        "recipes/invframes.md": "🖼️ Невидимые рамки",
+        "recipes/debugstick.md": "🔧 Дебаг-стик",
+        "recipes/inspectorglass.md": "🔍 Лупа"
     },
     "Документики": {
         "legal/oferta.md": "Договор оферты",
